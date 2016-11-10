@@ -1,6 +1,8 @@
 # Teste
 Teste feito para uma vaga de emprego na empresa Pismo
 
+Este teste foi especificado, modelado e implementado em 6 dias.
+
 Link do Teste : https://gist.github.com/leosilvadev/2699585825b2dad4ee348bca855595fe
 
 # Breve descrição do projeto:
