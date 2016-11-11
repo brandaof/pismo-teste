@@ -17,7 +17,7 @@ Link do Teste : https://gist.github.com/leosilvadev/2699585825b2dad4ee348bca8555
 
 - compras-api-spec: Especificação da API compras.
 - compras-api: API de compras.
-- compras-api-client: Cliente do API de compras.
+- compras-api-client: Cliente da API de compras.
 - compras-api-persistence: Modulo de persistência da API compras.
 - compras-api-hibernate: Implementação do modulo de persistência da API compras.
 
